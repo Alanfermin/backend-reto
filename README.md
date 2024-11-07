@@ -15,7 +15,7 @@ Nota: No está optimizado para mobile. Es un breve desarrollo para el reto
 ![Chatbot con Node, Nest, AWS, y React JS](![Logo de GitHub](https://alanfermin.com/chatbot-Alan-Fermin.png)
 )
 
-4.- Para ver un video del backend y el frontend funcionando: https://www.youtube.com/watch?v=_mj9an_2Qbc
+4.- Para ver un video del backend y el frontend funcionando: https://www.youtube.com/watch?v=qvBTch-qzAw
 
 
 # Documentación de Endpoints
